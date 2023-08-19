@@ -3,6 +3,12 @@
 
 Upon graduation with my Master of Science in Electrical and Computer Engineering in 2025, my mission is to secure a position as an Analog Integrated Circuit Design Engineer, leveraging my expertise to create innovative solutions in analog circuitry.
 
+## Leetcode Stats
+
+Since I've complete my minor in CS, I am going to be using leetcode to keep up my programming skills. I am posting my stats here to keep myself motivated to keep solving problems! 
+
+![Leetcode Stats](https://leetcard.jacoblin.cool/blakeaaronroberts)
+
 <!--
 **blakeaaronroberts/blakeaaronroberts** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
