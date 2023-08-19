@@ -5,7 +5,7 @@ Upon graduation with my Master of Science in Electrical and Computer Engineering
 
 ## Leetcode Stats
 
-Since I've complete my minor in CS, I am going to be using leetcode to keep up my programming skills. I am posting my stats here to keep myself motivated to keep solving problems! 
+Since I've completed my minor in CS, I am going to be using leetcode to keep up my programming skills. I am posting my stats here to keep myself motivated to keep solving problems! 
 
 ![Leetcode Stats](https://leetcard.jacoblin.cool/blakeaaronroberts)
 
